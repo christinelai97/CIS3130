@@ -1,2 +1,2 @@
 # CIS3130
-This is project contains a simple program that prints "Hello, world"
+This project contains a simple program that prints "Hello, world"
